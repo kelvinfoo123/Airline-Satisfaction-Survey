@@ -6,3 +6,6 @@ Notebook link: https://deepnote.com/@kelvins-research-lab/Untitled-project-ebdce
 
 The top 3 factors that airline passengers are most dissatisfied with are seat comfort, food and inflight wifi.Since inflight wifi and food cost lesser and require a shorter timespan to improve on, the airline company can work on improving these two factors first while seat comfort can be improved over a longer timespan.
 The airline company can consider giving passengers a survey to find out the type of food they like in order to improve the satisfaction level of the food. 
+
+### Python - Predict satisfaction level of customers 
+Notebook link: https://www.kaggle.com/code/kelvinfoo123/airline-passenger-satisfaction-prediction
